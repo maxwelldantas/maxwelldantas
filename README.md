@@ -1,8 +1,17 @@
-### Hi there 👋
+### My contributions 👋
 
-[![Maxwell github stats](https://github-readme-stats.vercel.app/api?username=maxdsouza)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdsouza&hide=html&layout=compact&theme=cobalt" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=maxdsouza&theme=cobalt" /></td>
+  </tr>  
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=maxdsouza&repo=ongvd&theme=cobalt" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=maxdsouza&repo=javascript-es6-essencial&theme=cobalt" /></td>
+  </tr>  
+</table>
+</center>
 <!--
 **maxdsouza/maxdsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
