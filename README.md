@@ -11,6 +11,6 @@
 
 ##### Contact me:
 
-<a href="mailto:mdszdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:maxwelldsouza@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=microsoft&logoColor=blue"></a>
 <a href="https://www.linkedin.com/in/maxwelldantas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/maxwelldantas" target="_blank"><img src="https://img.shields.io/github/followers/maxwelldantas?label=follow&style=social"></a>
