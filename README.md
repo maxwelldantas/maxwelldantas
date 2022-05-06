@@ -6,7 +6,6 @@
 
 ### My contributions
 
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelldantas&hide=html&layout=compact&theme=dark&langs_count=10)
 ![alt text](https://github-readme-stats.vercel.app/api?username=maxwelldantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ##### Contact me:
