@@ -2,7 +2,7 @@
 
  ‍🚀I'm Maxwell Dantas, graduated in Information Systems and always looking for knowledge in this wonderful field of knowledge that I really like to work with, which is systems programming.🚀
 
-#### "Many of the stones found in the road of our lives can be removed, as long as we are persistent and don't give up, no matter how desperate!"
+#### It's like an ancient wise man once said: "If you don't try, you're sure to fail.".
 
 ### My contributions
 
